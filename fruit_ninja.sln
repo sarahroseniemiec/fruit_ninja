@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fruit_ninja", "fruit_ninja.csproj", "{BBEA26E1-2F3D-B80C-E532-4D55EBE3C5B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fruit_ninja.Editor", "fruit_ninja.Editor.csproj", "{D3BD9BD5-F051-36E0-A05B-10251922A460}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBEA26E1-2F3D-B80C-E532-4D55EBE3C5B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBEA26E1-2F3D-B80C-E532-4D55EBE3C5B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBEA26E1-2F3D-B80C-E532-4D55EBE3C5B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBEA26E1-2F3D-B80C-E532-4D55EBE3C5B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3BD9BD5-F051-36E0-A05B-10251922A460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3BD9BD5-F051-36E0-A05B-10251922A460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3BD9BD5-F051-36E0-A05B-10251922A460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3BD9BD5-F051-36E0-A05B-10251922A460}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
